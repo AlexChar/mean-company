@@ -25,7 +25,9 @@
 		"qs": "3.1.0",
 		"request": "2.56.0",
 		"rpc.js": "0.4.3",
-		"socket.io": "1.3.5"
+		"socket.io": "1.3.5",
+	  	"cron": "1.0.9",
+	  	"colors": "1.1.0"
 	},
 	"devDependencies": {
 		"grunt": "0.4.5",

@@ -41,6 +41,10 @@ var pathParts =dependency.buildPaths(__dirname, {});
 var io;
 var RealtimeMod =require(pathParts.services+'realtime/realtime.js');
 
+//color module
+//var ColorsMod = require(pathParts.services+'colors/colors.js');
+//ColorsMod.testColor("alex");
+
 var self;
 
 // CORS support middleware factory
